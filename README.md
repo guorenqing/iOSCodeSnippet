@@ -1,5 +1,4 @@
-[github源码地址]([https://github.com/guorenqing/iOSCodeSnippet](https://github.com/guorenqing/iOSCodeSnippet)
-)
+[github源码地址](https://github.com/guorenqing/iOSCodeSnippet)
 
 # 使用方式
 1.下载源码
