@@ -3,7 +3,7 @@
 # 使用方式
 1.下载源码
 ```
-git clone git@github.com:guorenqing/iOSCodeSnippet.git
+git clone https://github.com/guorenqing/iOSCodeSnippet.git
 ```
 2.打开Xcode代码片段存放目录
 ```
